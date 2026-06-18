@@ -3,13 +3,13 @@
 <!-- ============================================================ -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Thomai+Xavier+Nalan+M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer+Science+Graduate+%7C+Python+%26+Java+Developer+%7C+ML%2FAI+Enthusiast&descAlignY=62&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Thomai+Xavier+Nalan+M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer+Science+Graduate+%7C+Python+and+Java+Developer+%7C+ML+and+AI+Enthusiast&descAlignY=62&descSize=16)
 
 <!-- ============================================================ -->
 <!--  2. TYPING HEADER                                             -->
 <!-- ============================================================ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Computer+Science+Graduate+(2026);Python+%7C+Java+%7C+Machine+Learning;Technical+Editor+for+Published+IT+Textbooks;Building+AI-Powered+Tools+with+Flask+%26+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Computer+Science+Graduate+(2026);Python+%7C+Java+%7C+Machine+Learning;Technical+Editor+for+Published+IT+Textbooks;Building+AI-Powered+Tools+with+Flask+and+Python)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CODEWITH-THOMAI&color=70a5fd&style=flat-square&label=Profile+Views)
 
